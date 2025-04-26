@@ -26,6 +26,11 @@ const API_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv'
     },
+    bdzy: {
+        api: 'https://api.apibdzy.com',
+        name: '百度資源',
+        detail: 'https://api.apibdzy.com'
+    },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
