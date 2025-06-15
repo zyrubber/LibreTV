@@ -26,6 +26,45 @@ const API_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv'
     },
+    dyttzy: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂资源',
+        detail: 'http://caiji.dyttzyapi.com', 
+    },
+    yinghua: {
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+        name: '樱花资源'
+    },
+    baidu: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度云资源'
+    },
+    wujin: {
+        api: 'https://api.wujinapi.me/api.php/provide/vod',
+        name: '无尽资源'
+    },
+    wwzy: {
+        api: 'https://wwzy.tv/api.php/provide/vod',
+        name: '旺旺短剧'
+    },
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'iKun资源'
+    },
+    testSource: {
+        api: 'https://www.example.com/api.php/provide/vod',
+        name: '空内容测试源',
+        adult: true
+    },
+    iqiyi: {
+        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
+        name: 'iqiyi资源',
+    },
+    ffzy: {
+        api: 'http://ffzy5.tv/api.php/provide/vod',
+        name: '非凡影视',
+        detail: 'http://ffzy5.tv', 
+    },
     tyyszy: {
         api: 'https://tyyszy.com',
         name: '天涯资源',
